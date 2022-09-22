@@ -1,0 +1,5 @@
+Diferenças de Git e Github
+
+Git - É um software
+
+Github - É uma plataforma onde sobe projetos e criar portifólio e compartilhar com o mundo.
